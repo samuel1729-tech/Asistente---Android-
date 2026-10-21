@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="jarvis_subtitle">Sistema Operativo Táctico &amp; Asistente IA</string>
+    <string name="jarvis_status_online">SISTEMAS OPERATIVOS EN LÍNEA</string>
+    <string name="jarvis_greeting_default">Bienvenido, señor. Todos los sistemas están sincronizados y a su completa disposición.</string>
+    <string name="prompt_hint">Ingrese una directiva o consulte a JARVIS...</string>
+    <string name="btn_speak">Activar Voz</string>
+    <string name="btn_send">Enviar</string>
+    <string name="tab_main">Núcleo</string>
+    <string name="tab_tools">Herramientas</string>
+    <string name="tab_history">Historial</string>
+    <string name="tab_settings">Configuración</string>
+</resources>
